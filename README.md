@@ -1,5 +1,5 @@
 # Encriptix-Task-2
-Personal Portfolio website
+A modern and responsive personal portfolio website built with HTML, CSS, and JavaScript. It showcases my skills, projects, and contact information with a clean design that adapts seamlessly to different screen sizes. Includes a toggle for dark and light themes to enhance user experience.
 
 # Here's some Capture Moment during my code
 
